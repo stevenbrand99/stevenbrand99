@@ -13,7 +13,7 @@ I have 6+ years of software engineering experience, with a focus on Python/Djang
 
 ## Current build roadmap
 
-- **EvidenceOps** — AI-assisted compliance evidence platform with traceable citations and human approval.
+- **API Change Intelligence** — detects breaking changes in third-party APIs, maps affected integrations, and produces cited migration plans and contract-test suggestions.
 - **SyncGuard** — third-party integration reliability lab for OAuth, webhooks, retries, and recovery.
 - **IncidentLens MCP** — read-only incident investigation assistant with auditable tool use.
 
